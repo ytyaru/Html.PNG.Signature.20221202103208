@@ -16,6 +16,7 @@ JavaScriptでPNGファイル解析（シグネチャ）
 NAME='Html.PNG.Signature.20221202103208'
 git clone https://github.com/ytyaru/$NAME
 cd $NAME/docs
+./server.sh
 ```
 
 1. ターミナルを起動する
